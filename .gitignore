@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iws
+*.iml
+**/*.iml
+*.ipr
+# gradle
+gradle/
+.gradle/
+output/
+.build/
+out/
+bin/
+gen/
+target/
+classes/
+*.class
+.temp/
